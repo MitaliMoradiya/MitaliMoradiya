@@ -1,3 +1,5 @@
+[![logo](https://github.com/MitaliMoradiya/MitaliMoradiya/blob/main/assets/Neutral%20Modern%20New%20Release%20Fashion%20Instagram%20Carousel.png)]
+
 ## Hi there 👋
 
 <!--
